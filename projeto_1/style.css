@@ -1,9 +1,13 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .h2{
     color:forestgreen;
     background-color: aqua;
 }
 
-.p{
+.k{
     font-size: 18px;
-    font-family: 'Courier New', Courier, monospace;
+    
 }
