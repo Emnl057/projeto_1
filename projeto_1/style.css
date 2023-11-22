@@ -1,19 +1,10 @@
 * {
+    color: black;
     font-family: 'Courier New', Courier, monospace;
 }
 
 .cont{
-    background-color:limegreen;
-    padding: 1rem 1rem 1rem 1rem;
-}
-
-.k{
-    margin-top: 342px;
-    display: flex ;
-    align-items: center;
-    flex-direction: column;
-    font-size: 10px;
-    font-weight: 300;
-    color:red;
+    font-style: italic;
     
 }
+
